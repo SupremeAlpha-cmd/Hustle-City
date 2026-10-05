@@ -1,0 +1,18 @@
+# Godot
+.godot/
+*.translation
+
+# Exports
+exports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tools (local Godot binary, not committed)
+tools/
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/__pycache__/
